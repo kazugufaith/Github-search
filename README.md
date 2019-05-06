@@ -15,12 +15,13 @@ Faith Kazungu
 2. Bootstrap.
 
 ### Setup instructions
-1. Its really simple just find my repository in github or simply type this url in your browser 
+1. Its really simple just find my repository in github or simply type this url in your browser https://kazugufaith.github.io/Github-search/
 2. Secondly Navigate through the Application and enter details required.
 3. Finally click search to retrieve results.
 4. Results would be displayed on the same page.
 
 ### Live Link
+ https://kazugufaith.github.io/Github-search/
 
 
 ### CONTACTS
