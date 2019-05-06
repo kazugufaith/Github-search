@@ -1,6 +1,39 @@
 # Project Name
 Github Search
 
+## Description
+1. This is a Web Application project where you can search for github users and their repositories.
+2. The project is made with Angular 7.
+3. It has a simple easy to use user interface that every user would love interaction with.
+
+### Authors
+Faith Kazungu
+
+
+### Technologies Used
+1. Angular.
+2. Bootstrap.
+
+### Setup instructions
+1. Its really simple just find my repository in github or simply type this url in your browser 
+2. Secondly Navigate through the Application and enter details required.
+3. Finally click search to retrieve results.
+4. Results would be displayed on the same page.
+
+### Live Link
+
+
+### CONTACTS
+1. faithmugesia@gmail.com
+2. +(254)798-578-613
+
+### License
+Copyright © 2019, Faith Kazungu. Released under the MIT License- see the LICENSE.md file for details.
+
+
+# GithubSearch1
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
 
 ## Development server
