@@ -1,0 +1,108 @@
+        body {
+            color: black;
+            font-size: 30px;
+        }
+        
+        .panel-body img {
+            margin-top: 50px;
+        }
+        
+        .col-md-4 {
+            border: none;
+        }
+        
+        .container-fluid {
+            background: black;
+            height: 70px;
+        }
+        
+        li {
+            display: inline-block;
+            color: white;
+        }
+        
+        nav ul {
+            padding-left: 50px;
+            display: inline-block;
+            vertical-align: top;
+        }
+        
+        nav li {
+            display: inline-block;
+            font-size: 20px;
+            font-family: 'ZCOOL XiaoWei', serif;
+            margin-left: 10px;
+            margin-top: 20px;
+        }
+        
+        nav>ul>li>a {
+            padding: 10px;
+            margin-right: 0;
+            text-transform: uppercase;
+            display: block;
+            color: white;
+        }
+        
+        nav>ul>li>a:hover {
+            background: black;
+            border-radius: 5px;
+        }
+        
+        .container-fluid {
+            background-image: url('/assets/bg1.jpeg');
+        }
+        
+        .beast {
+            width: 100%;
+            background-size: cover;
+            background-attachment: fixed;
+        }
+        
+        .form-group {
+            margin-right: 300px;
+            margin-top: 20px;
+            float: right;
+            width: 50%;
+        }
+        
+        .ok {
+            margin-left: 370px;
+            margin-top: -65px;
+            background: black;
+        }
+        
+        .list-group-item {
+            color: black;
+        }
+        
+        .repo {
+            color: black;
+        }
+        
+        .list-group {
+            margin-top: 50px;
+        }
+        
+        .panel-heading {
+            color: black;
+            font-size: 20px;
+            text-transform: capitalize;
+            margin-left: 420px;
+        }
+        
+        .panel-heading span {
+            font-family: 'Gloria Hallelujah', cursive;
+            font-size: 10px;
+        }
+        
+        .me {
+            border: 20px;
+            background-image: url('/assets/2.png');
+            background-size: cover;
+            width: 10%;
+        }
+        
+        .profpic {
+            border-radius: 50%;
+            width: 90%;
+        }
